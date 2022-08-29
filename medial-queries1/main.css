@@ -1,3 +1,29 @@
 body {
   background: blanchedalmond;
+    
 }
+
+* {
+  border: 1px solid teal;
+}
+ .a {
+   display: flex;
+ }
+
+ .b {
+display: flex;
+ }
+
+ .c {
+display: flex;
+ }
+ 
+.container {
+  display: flex;
+ position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  overflow: auto;
+  }
